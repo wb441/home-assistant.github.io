@@ -21,5 +21,5 @@ The gateway needs to be configured by adding the following lines to your `config
 # Example configuration.yaml entry
 
 velbus:
-  port: '/dev/ttyUSB00'
+  port: '/dev/ttyACM0'
 ```
